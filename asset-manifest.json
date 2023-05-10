@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myportfolio-react/static/css/main.3c975228.css",
+    "main.js": "/myportfolio-react/static/js/main.b261a56b.js",
+    "static/media/profile.jpg": "/myportfolio-react/static/media/profile.80348a8f6c3fd1191809.jpg",
+    "static/media/CV-Madumi.pdf": "/myportfolio-react/static/media/CV-Madumi.df59838ec2fb5008cd67.pdf",
+    "static/media/about.jpg": "/myportfolio-react/static/media/about.e6833470b35d2e0cbfa6.jpg",
+    "index.html": "/myportfolio-react/index.html",
+    "main.3c975228.css.map": "/myportfolio-react/static/css/main.3c975228.css.map",
+    "main.b261a56b.js.map": "/myportfolio-react/static/js/main.b261a56b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c975228.css",
+    "static/js/main.b261a56b.js"
+  ]
+}
